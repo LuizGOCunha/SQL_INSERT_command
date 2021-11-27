@@ -1,0 +1,26 @@
+fazendeiro
+alquimista
+pescador
+caçador
+mercador
+carroceiro
+artesão
+ferreiro
+soldado
+caçador de recompensa
+mercenário
+fora-da-lei
+líder de bando, fora-da-lei
+líder de bando, mercenário
+louco de estrada
+marinheiro
+Oficial de bando, fora-da-lei
+Oficial de bando, mercenário
+Oficial militar
+maçom
+sábio
+orador
+monge
+abençoado
+fisista
+hermitão
